@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JGPrish90
 
 - 👀 I’m interested in 
-         Machine Learning
+         Machine Learning, Data Analysis, Data Engineering, ...
  
 - 🌱 I’m currently learning
-         ML 
+         ML, Data Analysis, Deep Learning Models, Tensorflow, Pandas, SQL for Data Analysis, ...
          
 - 💞️ I’m looking to collaborate on ...
 
