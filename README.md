@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @JGPrish90
 
 - 👀 I’m interested in 
-         Machine Learning, Data Analysis, Data Engineering, JavaScript, Node.js ...
+         C++, OOP, Machine Learning, Data Analysis, Data Engineering, JavaScript, Node.js ...
  
 - 🌱 I’m currently learning
          Node.js, Javascript, Full-stack development
          
 - 💞️ I’m looking to collaborate on ...
-         Web apps
+         Web apps, C++ programming
 
 - 📫 How to reach me 
           jprishval@gmail.com
